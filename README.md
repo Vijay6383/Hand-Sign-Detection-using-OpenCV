@@ -2,9 +2,17 @@
 
 This project is a real-time **hand sign recognition system** that uses a **Random Forest classifier** trained on custom hand gesture images (0-9). It uses **OpenCV** and **MediaPipe** for hand landmark detection and **HOG (Histogram of Oriented Gradients)** for feature extraction. The model is deployed using **Streamlit**, providing a simple, webcam-based interface to recognize hand signs and display the corresponding digit.
 
-## Screenshots
+## Hand Sign (0-9)
 
 ![App Screenshot](https://github.com/Vijay6383/Hand-Sign-Detection-using-OpenCV/blob/main/ASL_numbers_handsign.png)
+
+## Data Collection Screenshot
+
+![data collection]()
+
+## Demo
+
+[![App Demo video](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/JsHrH0lhYH4?si=NrffCzWEcUaJ7MDs)
 
 ## Requirements
 Make sure you have the following dependencies installed:
