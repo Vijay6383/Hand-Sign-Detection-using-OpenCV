@@ -8,11 +8,11 @@ This project is a real-time **hand sign recognition system** that uses a **Rando
 
 ## Data Collection Screenshot
 
-![data collection]()
+![data collection](https://github.com/Vijay6383/Hand-Sign-Detection-using-OpenCV/blob/main/screenshot.jpg)
 
 ## Demo
 
-[![App Demo video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/JsHrH0lhYH4?si=NrffCzWEcUaJ7MDs)
+[![App Demo video](https://github.com/Vijay6383/Hand-Sign-Detection-using-OpenCV/blob/main/Demo_video.jpg)](https://youtu.be/JsHrH0lhYH4?si=NrffCzWEcUaJ7MDs)
 
 ## Requirements
 Make sure you have the following dependencies installed:
