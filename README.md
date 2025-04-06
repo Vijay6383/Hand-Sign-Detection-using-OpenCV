@@ -1,4 +1,4 @@
-# Hand Sign Detection App using OpenCv, RandomForest and Streamlit
+# Real-Time Hand Sign Detection App using OpenCv, RandomForest and Streamlit
 
 This project is a real-time **hand sign recognition system** that uses a **Random Forest classifier** trained on custom hand gesture images (0-9). It uses **OpenCV** and **MediaPipe** for hand landmark detection and **HOG (Histogram of Oriented Gradients)** for feature extraction. The model is deployed using **Streamlit**, providing a simple, webcam-based interface to recognize hand signs and display the corresponding digit.
 
@@ -12,7 +12,7 @@ This project is a real-time **hand sign recognition system** that uses a **Rando
 
 ## Demo
 
-[![App Demo video](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/JsHrH0lhYH4?si=NrffCzWEcUaJ7MDs)
+[![App Demo video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/JsHrH0lhYH4?si=NrffCzWEcUaJ7MDs)
 
 ## Requirements
 Make sure you have the following dependencies installed:
